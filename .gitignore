@@ -128,3 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.idea/alx-frontend-javascript.iml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/vcs.xml
